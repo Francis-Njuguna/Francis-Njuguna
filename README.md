@@ -1,77 +1,152 @@
-# Hi 👋 I'm Francis Kamau
+<div align="center">
 
-### Applied Computer Science Student
+# Hi 👋, I'm Francis Kamau Njuguna
 
-💻 Backend Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Applied+Computer+Science+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Solutions;Always+Learning+Something+New" alt="Typing SVG" />
 
-🌍 Based in Kenya
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Applied Computer Science student
-- 🔭 Building AI-powered applications
-- 🌱 Learning FastAPI, PostgreSQL, and LLMs
-- 💬 Ask me about Python, Node.js, React and AI
-- 📫 Email: your@email.com
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 💫 About Me
 
-### Languages
+🎓 Applied Computer Science Student at Chuka University
 
-- Python
-- JavaScript
-- Java
-- C++
-- SQL
+💻 Passionate about Backend Development, AI, and Cloud Computing
 
-### Backend
+🚀 Building intelligent software that solves real-world problems
+
+🌱 Currently learning
 
 - FastAPI
-- Node.js
-- Express
-
-### Frontend
-
-- React
-- Tailwind CSS
-- Vite
-
-### Databases
-
 - PostgreSQL
-- ChromaDB
-- SQLite
+- RAG Systems
+- LLM Engineering
+- Cloud Deployment
+
+🎯 Goal
+
+Become an exceptional Backend & AI Engineer.
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AMREF RAG Chatbot
+### 🤖 AMREF AI Chatbot
 
-Retrieval-Augmented Generation chatbot for healthcare knowledge.
+Healthcare chatbot powered by Retrieval-Augmented Generation (RAG).
 
 ### 🌾 SmartAgri
 
-AI-powered farming assistant.
+AI-powered farming assistant using weather data and machine learning.
 
 ### 🛒 FarmConnect
 
-Marketplace connecting farmers and buyers.
+Marketplace connecting farmers with buyers.
+
+### 🏨 Hotel Booking System
+
+Full-stack hotel reservation platform.
 
 ---
 
-## 📈 GitHub Stats
+# 🛠 Tech Stack
 
-<!-- add stats here -->
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,nodejs,express,fastapi,react,vite,tailwind,postgres,mysql,docker,git,github,linux,vscode,postman,figma&perline=10)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## 📫 Connect
+# 📊 GitHub Statistics
 
-LinkedIn:
-Portfolio:
-Email:
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ☁️ Cloud Computing
+- 🐳 Docker
+- 🔐 Cybersecurity
+- ⚡ System Design
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Favorite Quote
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+⭐️ If you like my projects, consider giving them a star!
+
+</div>
